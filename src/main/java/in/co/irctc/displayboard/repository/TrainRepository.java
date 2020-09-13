@@ -7,3 +7,4 @@ import in.co.irctc.displayboard.entity.Train;
 public interface TrainRepository extends MongoRepository<Train, ID>{
 
 }
+ 
